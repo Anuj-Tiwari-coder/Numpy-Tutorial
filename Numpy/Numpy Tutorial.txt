@@ -1,0 +1,29 @@
+install Python First with https://www.python.org/
+
+NumPy is a powerful Python library for numerical computing. It provides support for working with large, multi-dimensional arrays and matrices, along with a variety of mathematical functions to perform operations on these data structures.
+
+For Numpy Refrence Go on : https://docs.scipy.org/doc/numpy-1.15.1/reference/
+
+Step 1 : Upgrade the Python
+ python.exe -m pip install --upgrade pip
+
+Step 2 : check the version
+python --version
+
+Step 3 : Install Numpy
+pip install numpy
+
+Step 4 : Insatll Jupyter
+pip install jupyter
+
+Step 5 : Jupyter Notebook 
+jupyter notebook
+
+Step 6 : Create new File on Jupyter notebook
+Click new and select Python 3
+
+the see the NoteBook
+
+follow as instruction 
+
+
